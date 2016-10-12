@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
+
 Also see the Khronos landing page for glslang as a reference front end:
 
 https://www.khronos.org/opengles/sdk/tools/Reference-Compiler/
@@ -307,3 +308,7 @@ Basic Internal Operation
 移植OpenGL的glsl文件语法验证器到OS X
 # HOW TO USE 
 切换到bin目录，下面有可执行文件
+=======
+# glslangValidator---Mac
+移植OpenGL的glsl文件语法验证器到OS X
+
