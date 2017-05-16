@@ -1,4 +1,9 @@
+# glslangValidator for Mac
+移植OpenGL的glsl文件语法验证器到OS X
 
+## HOW TO USE 
+切换到bin目录，下面有可执行文件
+-------
 
 Also see the Khronos landing page for glslang as a reference front end:
 
@@ -303,12 +308,4 @@ Basic Internal Operation
 [bison]: https://www.gnu.org/software/bison/
 [googletest]: https://github.com/google/googletest
 [bison-gnu-win32]: http://gnuwin32.sourceforge.net/packages/bison.htm
-=======
-# glslangValidator---Mac
-移植OpenGL的glsl文件语法验证器到OS X
-# HOW TO USE 
-切换到bin目录，下面有可执行文件
-=======
-# glslangValidator---Mac
-移植OpenGL的glsl文件语法验证器到OS X
 
